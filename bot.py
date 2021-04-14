@@ -9,7 +9,23 @@ def start(updater,context):
  updater.message.reply_text('''Hi iam welcome messanger bot 
 Add me to your group 
  
- Made with Love ❤️ by @lntechnical
+ Hey 😊{NAME} How are you?😉
+
+Welcome to our {GROUPNAME}
+
+{NAMESURNAME}
+
+{LANG} Are you Tamil English?
+
+{TIME}  {DATE}
+
+Chat friendly and decent 😇with each other....💕😍
+
+neega time pass,fake na Intha group set aakadhu 😂 poolam neega
+
+One sec Inga girls pm la disturb panna kootadhu 🤬
+
+Be decent 😇
 
   ''')
 def help(updater,context):
