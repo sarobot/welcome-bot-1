@@ -12,11 +12,11 @@ def start(updater,context):
 
  updater.message.reply_text('''Hi iam saro: welcome messanger bot 
 
-Add me to your group 
 
-வணக்கம் நண்பர்களே நான் உங்களை என் குழுவில் வரவேற்பதற்கு மிகவும் மகிழ்ச்சி அடைகிறேன்,
 
- 
+
+
+
 
  
 
